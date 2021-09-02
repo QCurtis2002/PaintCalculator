@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KR99CY3yyjzZmAJDFkN/X0BjeUG7g3Ii3KjkTMIfNC6Q3uMnGCVBYUJKhgFZmAOzfHtFEERs0ounMSf/oRbjdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qljcu\\OneDrive\\Documents\\GitHub\\PaintCalculator\\PaintCalculator\\PaintCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qljcu\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.17\\microsoft.netcore.app.runtime.win-x86.3.1.17.nupkg.sha512",
+    "C:\\Users\\qljcu\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.17\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.17.nupkg.sha512",
+    "C:\\Users\\qljcu\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.17\\microsoft.aspnetcore.app.runtime.win-x86.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}

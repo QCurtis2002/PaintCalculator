@@ -1,0 +1,2 @@
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\bin\Release\netcoreapp3.1\publish\PaintCalculator.pdb
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\bin\Release\netcoreapp3.1\publish\PaintCalculator.exe

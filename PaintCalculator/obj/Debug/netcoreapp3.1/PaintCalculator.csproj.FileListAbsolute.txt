@@ -1,0 +1,15 @@
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\bin\Debug\netcoreapp3.1\PaintCalculator.exe
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\bin\Debug\netcoreapp3.1\PaintCalculator.deps.json
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\bin\Debug\netcoreapp3.1\PaintCalculator.runtimeconfig.json
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\bin\Debug\netcoreapp3.1\PaintCalculator.runtimeconfig.dev.json
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\bin\Debug\netcoreapp3.1\PaintCalculator.dll
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\bin\Debug\netcoreapp3.1\PaintCalculator.pdb
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\obj\Debug\netcoreapp3.1\PaintCalculator.csproj.AssemblyReference.cache
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\obj\Debug\netcoreapp3.1\PaintCalculator.PaintCalculator.resources
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\obj\Debug\netcoreapp3.1\PaintCalculator.csproj.GenerateResource.cache
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\obj\Debug\netcoreapp3.1\PaintCalculator.AssemblyInfoInputs.cache
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\obj\Debug\netcoreapp3.1\PaintCalculator.AssemblyInfo.cs
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\obj\Debug\netcoreapp3.1\PaintCalculator.csproj.CoreCompileInputs.cache
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\obj\Debug\netcoreapp3.1\PaintCalculator.dll
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\obj\Debug\netcoreapp3.1\PaintCalculator.pdb
+C:\Users\qljcu\OneDrive\Documents\GitHub\PaintCalculator\PaintCalculator\obj\Debug\netcoreapp3.1\PaintCalculator.genruntimeconfig.cache
